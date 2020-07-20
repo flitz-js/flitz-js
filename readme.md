@@ -71,7 +71,7 @@ const run = async () => {
 run();
 ```
 
-The following middlewares are ready to use:
+## Useful modules
 
 | Name | Description |
 |---|---|
