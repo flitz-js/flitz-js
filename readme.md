@@ -1,6 +1,6 @@
 # flitz
 
-Welcome to [flitz](https://github.com/flitz-js/flitz) [[**ˈflɪt͡s**](https://en.wikipedia.org/wiki/Naming_conventions_of_the_International_Phonetic_Alphabet)], a lightweight and extremly fast HTTP server with all basics for [Node 10+](https://nodejs.org/docs/latest-v10.x/api/http.html), wriiten in [TypeScript](https://www.typescriptlang.org/).
+Welcome to [flitz](https://github.com/flitz-js/flitz) [[**ˈflɪt͡s**](https://en.wikipedia.org/wiki/Naming_conventions_of_the_International_Phonetic_Alphabet)], a lightweight and extremly fast HTTP server with all basics for [Node 10+](https://nodejs.org/docs/latest-v10.x/api/http.html), written in [TypeScript](https://www.typescriptlang.org/).
 
 To install *flitz*, simply run
 
@@ -78,3 +78,4 @@ run();
 | [body](https://github.com/flitz-js/body) | Reads and/or parses the request body and makes the data available in `body` property of the request object of the underlying handler. |
 | [cookies](https://github.com/flitz-js/cookies) | Extracts cookies and makes the data available in `cookies` property of the request object of the underlying handler. |
 | [params](https://github.com/flitz-js/params) | Extracts path parameters and makes the data available in `params` property of the request object of the underlying handler. |
+| [swagger](https://github.com/flitz-js/swagger) | Sets up a [Swagger UI](https://github.com/swagger-api/swagger-ui) for a flitz instance. |
