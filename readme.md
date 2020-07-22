@@ -78,5 +78,6 @@ run();
 |---|---|
 | [body](https://github.com/flitz-js/body) | Reads and/or parses the request body and makes the data available in `body` property of the request object of the underlying handler. |
 | [cookies](https://github.com/flitz-js/cookies) | Extracts cookies and makes the data available in `cookies` property of the request object of the underlying handler. |
+| [errors](https://github.com/flitz-js/errors) | Pretty error handling. |
 | [params](https://github.com/flitz-js/params) | Extracts path parameters and makes the data available in `params` property of the request object of the underlying handler. |
 | [swagger](https://github.com/flitz-js/swagger) | Sets up a [Swagger UI](https://github.com/swagger-api/swagger-ui) for a flitz instance. |
