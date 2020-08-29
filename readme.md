@@ -76,6 +76,7 @@ run();
 
 | Name | Description |
 |---|---|
+| [accept-language](https://github.com/flitz-js/accept-language) | Extracts data from [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language) request header field and makes it available in a [flitz](https://github.com/flitz-js/flitz) request. |
 | [body](https://github.com/flitz-js/body) | Reads and/or parses the request body and makes the data available in `body` property of the request object of the underlying handler. |
 | [cookies](https://github.com/flitz-js/cookies) | Extracts cookies and makes the data available in `cookies` property of the request object of the underlying handler. |
 | [errors](https://github.com/flitz-js/errors) | Pretty error handling. |
