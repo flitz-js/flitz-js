@@ -5,7 +5,7 @@ Welcome to [flitz](https://github.com/flitz-js/flitz) [[**ˈflɪt͡s**](https://
 To install *flitz*, simply run
 
 ```bash
-npm run --save flitz
+npm install --save flitz
 ```
 
 from the folder, where your `package.json` file is stored and start with some like that:
